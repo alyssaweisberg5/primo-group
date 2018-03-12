@@ -58,6 +58,33 @@ font-size: 40px;
 	background-color: #ABAAAA;
 }
 
+#nav2 li{
+  margin: 0;
+  padding: 0;
+}
+#nav2 {
+  background-color: grey;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 0;
+  list-style-type: none;
+}
+
+#nav2 a:link, #nav2 a:visited {
+  color: black;
+  display: block;
+  text-decoration: none;
+  text-align: center;
+	font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+	font-weight: 400;
+  padding: 4px;
+  font-size: 15px;}
+
+  #nav2 a:hover, #nav a:active {
+ 	background-color: #ABAAAA;
+ }
+
 .video {
   position: relative;
   padding-bottom: 56.25%;
