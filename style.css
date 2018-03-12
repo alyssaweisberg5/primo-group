@@ -3,6 +3,15 @@ h1 {
   text-align: center;
   font-family: 'Montserrat', Helvetica, Arial, sans-serif;
 	font-weight: 700;
+  font-size: 50px;
+ }
+
+ h2 {
+   text-align: left;
+   font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+   font-weight: 550;
+   font-size: 30px;
+   margin-bottom: -30px;
  }
 
 body {
@@ -11,7 +20,9 @@ body {
 	background-color: white;
 }
 
-.bold {font-weight: 700; }
+.bold {font-weight: 700;
+font-size: 40px;
+}
 
 #container {
   width: 95%;
@@ -22,7 +33,6 @@ body {
   padding: 0;
   list-style-type: none;
 }
-
 
 #nav li{
   margin: 0;
@@ -38,6 +48,7 @@ body {
 	font-family: 'Montserrat', Helvetica, Arial, sans-serif;
 	font-weight: 400;
   padding: 4px;
+  font-size: 20px;
  }
 
  #nav a:hover, #nav a:active {
