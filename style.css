@@ -55,6 +55,13 @@ font-size: 40px;
 	background-color: #ABAAAA;
 }
 
+ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-around;
+}
+
 .video {
   position: relative;
   padding-bottom: 56.25%;
