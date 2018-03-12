@@ -106,7 +106,7 @@ font-size: 40px;
 	height: 100%;
 }
 
-/* .howto {font-weight: 700;
+.howto {font-weight: 700;
 font-size: 30px;
 }
 
@@ -117,32 +117,14 @@ font-size: 30px;
   font-size: 30px;
   margin-bottom: 100px;
   text-align: right;
-} */
+}
 
-/* img {
+ img {
   border: none;
-  width: 15%;
-  margin-left: 100px
-}
-
-.girl {
-  margin-left: 800px;
-  width: 110%;
-  margin-top: -800px;
-}
-
-.girl1 {
-  margin-left: 800px;
-  width: 110%;
-  margin-top: 0px;
-}
-
-.girl3 {
-  margin-left: 800px;
-  width: 110%;
-  margin-top: 0px;
+  width: 100%;
+  margin-left: 0px
 }
 
 .caption {
-  margin-left: 100px;
-} */
+  margin-left: 0px;
+}
