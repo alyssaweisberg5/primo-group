@@ -76,7 +76,37 @@ font-size: 30px;
 
 #howto {margin-bottom: 30px;}
 
-.meet {font-weight: 700;
-font-size: 30px;
-margin-bottom: 100px;
+.meet {
+  font-weight: 700;
+  font-size: 30px;
+  margin-bottom: 100px;
+  text-align: right;
+}
+
+img {
+  border: none;
+  width: 15%;
+  margin-left: 100px
+}
+
+.girl {
+  margin-left: 800px;
+  width: 110%;
+  margin-top: -800px;
+}
+
+.girl1 {
+  margin-left: 800px;
+  width: 110%;
+  margin-top: 0px;
+}
+
+.girl3 {
+  margin-left: 800px;
+  width: 110%;
+  margin-top: 0px;
+}
+
+.caption {
+  margin-left: 100px;
 }
