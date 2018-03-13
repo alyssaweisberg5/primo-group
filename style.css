@@ -18,6 +18,8 @@ h1 {
    font-family: 'Montserrat', Helvetica, Arial, sans-serif;
    font-weight: 550;
    font-size: 20px;
+   border-bottom: solid;
+   padding-bottom: 10px;
  }
 
  h4 {
@@ -126,14 +128,16 @@ font-size: 40px;
 .meet {
   font-weight: 700;
   font-size: 30px;
-  margin-bottom: 100px;
+  margin-bottom: 80px;
   text-align: right;
+  border-top: solid;
+  padding-top: 5px;
 }
 
  img {
   border: none;
   width: 100%;
-  margin-left: 0px
+  margin-left: 0px;
 }
 
 .caption {
@@ -142,4 +146,5 @@ font-size: 40px;
 
 .contact {
   text-align: center;
+  font-weight: 500px;
 }
